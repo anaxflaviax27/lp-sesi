@@ -1,0 +1,16 @@
+:root{
+    --dark: #F72585;
+    --text: #02111B;
+    --bg: #FF85A1;
+    --red1: #FF7096;
+    --red2: #FADDE1;
+    --red3: #B5179E;
+    --red4: #FF87AB;
+
+}
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
